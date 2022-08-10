@@ -1,0 +1,12 @@
+body {
+    background-image: url(prism.png);
+}
+.cuma-garis-pendek {
+    height: 2px;
+    width: auto;
+    background: black;
+}
+.row {
+    background-image: url(dirty_old_shirt.png);
+}
+
